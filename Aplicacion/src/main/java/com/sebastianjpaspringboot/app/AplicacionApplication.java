@@ -1,4 +1,4 @@
-package com.sebastianjpaspringboot.aplicacion;
+package com.sebastianjpaspringboot.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
